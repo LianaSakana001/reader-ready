@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader-ready · 去除 AI 味"
+  short_description: "Prepare writing for readers · 去除制作痕迹与助手口吻"
+  default_prompt: "Use $reader-ready to prepare this material for its intended readers, preserving facts and the author’s voice."
