@@ -1,6 +1,6 @@
 ---
 name: reader-ready
-description: Prepare reader-facing writing and text-bearing artifacts during drafting, editing, or final review. Use for scientific manuscripts (abstracts, introductions, methods, results, discussions), applications, reports, articles, forms, slides, notes, and figure text when production details, assistant voice, redundant explanations, defensive academic prose, or AI-sounding prose need attention. Also use for 去除AI味. Preserve evidence, author intent, and genre, including formal scientific writing.
+description: Prepare reader-facing writing and text-bearing artifacts during drafting, editing, or final review. Use for scientific manuscripts (abstracts, introductions, methods, results, discussions), applications, reports, articles, forms, slides, notes, and figure text when production details, assistant voice, redundant explanations, defensive academic prose, or formulaic prose need attention. Preserve evidence, author intent, and genre, including formal scientific writing.
 license: MIT
 metadata:
   version: "0.1.0"
